@@ -1,0 +1,27 @@
+"Id","Label","Lib","Name","Provided","Treeshaked","Used"
+"AytR","./src/environments/environment.ts",false,"./src/environments/environment.ts",1,1,1
+"C5T1","./src/app/core/interceptors/http.token.interceptor.ts",false,"./src/app/core/interceptors/http.token.interceptor.ts",1,1,1
+"IDn2","./src/app/shared/article-helpers/article-meta.component.ts",false,"./src/app/shared/article-helpers/article-meta.component.ts",1,1,1
+"M0ag","./src/app/shared/index.ts + 4 modules",false,"./src/app/shared/index.ts + 4 modules",10,0.1,1
+"Q+cP","./src/app/shared/layout/footer.component.ts",false,"./src/app/shared/layout/footer.component.ts",1,1,1
+"SXxL","./src/app/shared/buttons/favorite-button.component.ts",false,"./src/app/shared/buttons/favorite-button.component.ts",1,1,1
+"TYhg","./src/app/shared/show-authed.directive.ts",false,"./src/app/shared/show-authed.directive.ts",1,1,1
+"UCte","./src/app/shared/buttons/follow-button.component.ts",false,"./src/app/shared/buttons/follow-button.component.ts",1,1,1
+"dJ3e","./src/app/core/services/index.ts + 20 modules",false,"./src/app/core/services/index.ts + 20 modules",8,1,8
+"ey9i","./src/app/core/index.ts + 8 modules",false,"./src/app/core/index.ts + 8 modules",10,0.6,6
+"juF/","./src/app/shared/article-helpers/article-list.component.ts",false,"./src/app/shared/article-helpers/article-list.component.ts",1,1,1
+"mIkr","./src/app/shared/layout/header.component.ts",false,"./src/app/shared/layout/header.component.ts",1,1,1
+"mzfZ","./src/app/shared/article-helpers/article-preview.component.ts",false,"./src/app/shared/article-helpers/article-preview.component.ts",1,1,1
+"pKmL","./src/app/core/core.module.ts",false,"./src/app/core/core.module.ts",1,1,1
+"vWSW","./src/app/shared/list-errors.component.ts",false,"./src/app/shared/list-errors.component.ts",1,1,1
+"zUnb","./src/main.ts + 12 modules",false,"./src/main.ts + 12 modules",0,100,
+"zn8P","./$$_lazy_route_resource lazy namespace object",false,"./$$_lazy_route_resource lazy namespace object",-1,-1,
+2,"multi ./src/polyfills.ts",false,"multi ./src/polyfills.ts",-1,-1,
+"hN/g","./src/polyfills.ts",false,"./src/polyfills.ts",0,100,
+"hN/g","./src/polyfills.ts",false,"./src/polyfills.ts",0,100,
+3,"multi ./src/styles.css",false,"multi ./src/styles.css",-1,-1,
+"OmL/","./src/styles.css",false,"./src/styles.css",0,100,
+"rZHr","./src/app/article/article.module.ts + 5 modules",false,"./src/app/article/article.module.ts + 5 modules",1,100,
+"ALb8","./src/app/editor/editor.module.ts + 3 modules",false,"./src/app/editor/editor.module.ts + 3 modules",1,100,
+"cRhG","./src/app/profile/profile.module.ts + 5 modules",false,"./src/app/profile/profile.module.ts + 5 modules",1,100,
+"7wo0","./src/app/settings/settings.module.ts + 2 modules",false,"./src/app/settings/settings.module.ts + 2 modules",1,100,
